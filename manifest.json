@@ -1,0 +1,8 @@
+{
+  "name": "Gov.gr Wallet",
+  "short_name": "Gov.gr Wallet",
+  "start_url": "page2.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
